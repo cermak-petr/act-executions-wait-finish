@@ -1,0 +1,17 @@
+{ 
+  "name": "executions-wait-finish",
+  "version": "1.0.0",
+  "description": "Apify act for waiting for a list of crawler executions to finish",
+  "main": "main.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cermak-petr/act-executions-wait-finish"
+  },
+  "dependencies": {
+    "apify": "latest",
+    "bluebird": "latest",
+    "underscore": "latest",
+    "request-promise": "latest"
+  }
+}
