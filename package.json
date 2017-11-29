@@ -9,9 +9,9 @@
     "url": "https://github.com/cermak-petr/act-executions-wait-finish"
   },
   "dependencies": {
-    "apify": "latest",
-    "bluebird": "latest",
-    "underscore": "latest",
-    "request-promise": "latest"
+    "apify": "^0.4.37",
+    "bluebird": "^3.5.1",
+    "underscore": "^1.8.3"
+    "request-promise": "^4.2.2"
   }
 }
